@@ -3,13 +3,13 @@ feature:
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
-  title : We’re A Digital Design Agency.
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : "Effektiv jordnära konsulting inom data science, digitalisering och mjukvara"
+  content : "Vi är den där mindre konsultfirman som har stor erfarenhet av digitalisering och hur man kan använda data och effektiva algoritmer för att bygga intressanta lösningar."
   feature_item : 
       # feature item loop
-    - title : SEO Optimized
+    - title : Jordnära
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Digitala lösningar ska stötta verksamheten. Data science och moderna mjukvarulösningar ska inte stjäla jobb utan ska assistera och hjälpa de som arbetar att fokusera på viktigare uppgifter.
       
       # feature item loop
     - title : Easy Customization
