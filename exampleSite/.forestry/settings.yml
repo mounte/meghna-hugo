@@ -15,6 +15,13 @@ sections:
   templates:
   - post
 - type: directory
+  path: exampleSite/content/swedish/blog
+  label: Post (sv)
+  create: documents
+  match: "**/*"
+  templates:
+  - post
+- type: directory
   path: exampleSite/content/french/blog
   label: Post (fr)
   create: documents
@@ -26,6 +33,13 @@ sections:
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)
+  create: documents
+  match: "**/*"
+  templates:
+  - author
+- type: directory
+  path: exampleSite/content/swedish/author
+  label: Author (sv)
   create: documents
   match: "**/*"
   templates:
