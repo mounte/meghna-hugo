@@ -1,5 +1,5 @@
 baseURL = "https://www.mounte.se"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
