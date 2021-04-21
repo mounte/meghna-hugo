@@ -12,16 +12,16 @@ feature:
       content : Digitala lösningar ska stötta verksamheten. Data science och moderna mjukvarulösningar ska inte stjäla jobb utan ska assistera och hjälpa de som arbetar att fokusera på viktigare uppgifter.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Anpassade lösningar
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Idag finns det många färdiga bra lösningar för de flesta problem man kan tänkas stöta på. Man brukar landa i att man antingen behöver köpa en komersiell lösning eller sätta sig in i hur man nyttjar "open source"-lösningar. Vi bidrar med kompetensen att kunna anpassa lösningar och se möjligheter att integrera nya lösningar och få system att interagera istället för att vara isolerade.
 
       # feature item loop
-    - title : SEO Optimized
+    - title : Ökat Värde
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Att anlita oss ska innebära någon form av ökat värde för er. Det är minst lika viktigt för oss som er att känna att arbetet vi gör är meningsfullt.
       
       # feature item loop
-    - title : Easy Customization
+    - title : Transparens & Tydlighet
       icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Vi jobbar tillsammans med er och försöker anpassa arbetssätt efter er verksamhet. Vi föredrar att ha en tät kommunikation där vi alla är tydliga och ärliga med vad som händer i projektet.
